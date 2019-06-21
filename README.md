@@ -1,2 +1,2 @@
-# bluetip-labs
+# BlueTip Labs
 BlueTip Labs Website
